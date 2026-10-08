@@ -1986,7 +1986,7 @@
     (property "Sheetfile" "/Users/climent/Sources/amoeba-king/amoeba-king/amoeba-king.sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00005ed091af")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J2" (at 0 1.695 -90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f2686f45-2ae4-4b9a-a8b7-05bbc2b156c9)
@@ -2025,7 +2025,7 @@
     (property "Sheetfile" "/Users/climent/Sources/amoeba-king/amoeba-king/amoeba-king.sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00005ed2e622")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J3" (at 0 1.695) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp bcc81429-4e41-4fde-a109-acc8130673df)
@@ -2064,7 +2064,7 @@
     (property "Sheetfile" "/Users/climent/Sources/amoeba-king/amoeba-king/amoeba-king.sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00005ed2e618")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP2" (at 0 2.9718) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp afb3a84e-e022-458f-b74a-11a3f5fd3386)
@@ -2148,7 +2148,7 @@
     (property "Sheetfile" "/Users/climent/Sources/amoeba-king/amoeba-king/amoeba-king.sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00005ec458e5")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J5" (at 1.397 0 90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 2d7d60af-cc03-46c3-9be9-51190f6ac955)
@@ -2175,7 +2175,7 @@
     (property "Sheetfile" "/Users/climent/Sources/amoeba-king/amoeba-king/amoeba-king.sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00005ec464e7")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J6" (at 1.524 0 90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 97d8be68-def3-4264-8986-c5b0e100acd4)
@@ -2202,7 +2202,7 @@
     (property "Sheetfile" "/Users/climent/Sources/amoeba-king/amoeba-king/amoeba-king.sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00005eceddd1")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "JP1" (at 0 2.9718) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 6f8db78a-0178-46aa-acc7-171afb52d8d3)
@@ -2286,7 +2286,7 @@
     (property "Sheetfile" "/Users/climent/Sources/amoeba-king/amoeba-king/amoeba-king.sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00005ecf294a")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J1" (at 0 1.695 180) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e3e181aa-d14d-451d-b1b9-84ec0e25218b)
@@ -2375,7 +2375,7 @@
     (property "Sheetfile" "/Users/climent/Sources/amoeba-king/amoeba-king/amoeba-king.sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00005ed66f35")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J4" (at 0 1.695 90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 30f6354e-0185-4da6-ba6b-8805ec8993e7)

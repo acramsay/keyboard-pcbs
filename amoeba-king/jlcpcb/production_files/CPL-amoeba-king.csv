@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,1N4148W-7-F,D_SOD-123,68.7197,-169.0614,270.0,bottom
+LED1,SK6812MINI_E,LED_SK6812MINI_E_PLCC4_3.2x2.8mm_Shine_Through,75.438,-163.576,0.0,bottom
+S1,MX1A,Kailh_MX_Socket,76.1,-172.5,0.0,bottom
